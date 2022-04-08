@@ -1,0 +1,9 @@
+CSVReader$UserSettings
+CSVReader$StaticSettings
+CSVReader$Letters
+CSVReader$HeadersHolder
+CSVReader
+CSVReader$ComplexEscape
+CSVReader$DataBuffer
+CSVReader$ColumnBuffer
+CSVReader$RawRecordBuffer
